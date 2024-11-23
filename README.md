@@ -6,5 +6,7 @@ Interactive graphs to track year-over-year trends.
 Budget vs. actual analysis and financial KPIs.
 Data-based drill-downs for in-depth analysis of performance.
 This is a great dashboard for finance teams and decision-makers, supporting real-time updates while providing a rich set of tools to drive financial analysis. Open up the .pbix file in Power BI Desktop to start digging into the financial insights!
+
 PBIX FILE: https://drive.google.com/file/d/143Yg9ZIwicNYhtmNCSZ9kNlGbycLxrnc/view?usp=sharing
+
 PDF FILE: https://drive.google.com/file/d/1oR-zhBD_rr4Boooq02JUvEGzgjnWuNoZ/view?usp=sharing
