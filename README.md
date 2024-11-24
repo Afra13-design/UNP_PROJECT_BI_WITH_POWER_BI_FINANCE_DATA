@@ -10,4 +10,4 @@ This is a great dashboard for finance teams and decision-makers, supporting real
 
 PBIX FILE: https://drive.google.com/file/d/143Yg9ZIwicNYhtmNCSZ9kNlGbycLxrnc/view?usp=sharing
 
-PDF FILE: https://drive.google.com/file/d/1oR-zhBD_rr4Boooq02JUvEGzgjnWuNoZ/view?usp=sharing
+PDF FILE: https://drive.google.com/file/d/1EmnnLDVRfRbkTUUrTWbxawUul37ZI4ud/view?usp=sharing
